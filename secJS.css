@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+}
+.article{
+    text-align: center;
+}
+.article h1{
+    font-weight: 500;
+    font-family: Impact,'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+}
+.article p{
+    font-size: 35px;
+}
+.article button{
+    padding: 40px 100px;
+    background-color: brown;
+    color: white;
+    font-size: larger;
+    transition: all .7s;
+}
+.article button:hover{
+    background-color:white;
+    color: black;
+}
